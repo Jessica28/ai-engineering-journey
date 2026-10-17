@@ -47,3 +47,7 @@ graph TD
     M3_Task --> M4_Task
     M4_Task --> M5_Task
     M5_Task --> M6_Task
+
+## 📅 Master Schedule & Calendar
+You can download the full detailed 24-week calendar and milestone breakdown here:
+👉 [Download 6-Month AI Engineer Calendar (Excel)](docs/AI_Engineer_6Month_Calendar.xlsx)
